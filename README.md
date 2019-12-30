@@ -2,9 +2,9 @@
 This project introduces you to the nuts and bolts of system calls, kernel programming, concurrency, and synchronization in the kernel.
 
 ## Contents
-- **part3/Makefile**: utility file that compiles the module created in elevator.c
-- **part3/syscalls_wrapper.c**: creates the wrappers for the system call functions used in elevator.c
-- **part3/elevator.c**: creates a module that simulates an elevator along with a proc file called 'elevator'
+- **Makefile**: utility file that compiles the module created in elevator.c
+- **syscalls_wrapper.c**: creates the wrappers for the system call functions used in elevator.c
+- **elevator.c**: creates a module that simulates an elevator along with a proc file called 'elevator'
 
 ## How to Compile
 - run ```make``` command
