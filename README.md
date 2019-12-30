@@ -1,5 +1,5 @@
 # Elevator Simulation
-This project introduces you to the nuts and bolts of system calls, kernel programming, concurrency, and synchronization in the kernel. It is divided into three parts.  
+This project introduces you to the nuts and bolts of system calls, kernel programming, concurrency, and synchronization in the kernel.
 
 ## Contents
 - **part3/Makefile**: utility file that compiles the module created in elevator.c
