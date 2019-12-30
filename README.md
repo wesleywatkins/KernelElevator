@@ -7,7 +7,6 @@ This project introduces you to the nuts and bolts of system calls, kernel progra
 - **part3/elevator.c**: creates a module that simulates an elevator along with a proc file called 'elevator'
 
 ## How to Compile
-- move the part3/ directory to usr/src/test_kernel
 - type ```make``` in the part3/ directory
 - insert the module using ```sudo insmod elevator.ko```
 - print out the proc file using ```cat /proc/elevator``` or ```watch -n1 cat /proc/elevator```
